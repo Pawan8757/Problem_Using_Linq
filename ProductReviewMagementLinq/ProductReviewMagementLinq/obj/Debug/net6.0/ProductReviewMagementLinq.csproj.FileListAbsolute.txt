@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ProductReviewMagementLinq.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ProductReviewMagementLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ProductReviewMagementLinq.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ProductReviewMagementLinq.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ProductReviewMagementLinq.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\bin\Debug\net6.0\ProductReviewMagementLinq.exe
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\bin\Debug\net6.0\ProductReviewMagementLinq.deps.json
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\bin\Debug\net6.0\ProductReviewMagementLinq.runtimeconfig.json
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\bin\Debug\net6.0\ProductReviewMagementLinq.dll
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\bin\Debug\net6.0\ProductReviewMagementLinq.pdb
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ProductReviewMagementLinq.dll
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\refint\ProductReviewMagementLinq.dll
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ProductReviewMagementLinq.pdb
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ProductReviewMagementLinq.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ProductReviewMagementLinq\ProductReviewMagementLinq\obj\Debug\net6.0\ref\ProductReviewMagementLinq.dll
